@@ -12,9 +12,9 @@ const Sidebar = (props: Props) => (
   <aside>
     <SidebarContainer>
       <Avatar />
-      <Title fontSize={20}>Schorchi Hutschinski</Title>
+      <Title fontSize={20}>Klinsman Gondim</Title>
       <Paragraph type="secondary" fontSize={16}>
-        schorchi-GH
+        Gondim-GK
       </Paragraph>
       <Description type="principal" fontSize={12}>
         Python Full Stack Developer
