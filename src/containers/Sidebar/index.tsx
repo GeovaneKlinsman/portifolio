@@ -14,7 +14,7 @@ const Sidebar = (props: Props) => (
       <Avatar />
       <Title fontSize={20}>Klinsman Gondim</Title>
       <Paragraph type="secondary" fontSize={16}>
-        Gondim-GK
+        GeovaneKlinsman
       </Paragraph>
       <Description type="principal" fontSize={12}>
         Python Full Stack Developer
